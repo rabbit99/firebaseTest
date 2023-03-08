@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15940228471",
+    "project_id": "elite-vista-134823",
+    "storage_bucket": "elite-vista-134823.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15940228471:android:959ccd0f62cd95e6ebbd72",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15940228471-tc9sj0j9qgf0060knuvaqmc3okad0925.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4KfWNv1_RVriPWdTe7qaR9kREfKk8Mdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15940228471-tc9sj0j9qgf0060knuvaqmc3okad0925.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
